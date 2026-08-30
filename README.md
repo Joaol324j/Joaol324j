@@ -2,11 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Lucas;I'm+21+years+old;I+am+from+Boa+Viagem,+CE;I+study+Software+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Joaol324j&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_lucasdm/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-carvalho-jacinto-069522270/)
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaol324j@gmail.com)
